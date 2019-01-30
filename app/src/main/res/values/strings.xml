@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GerenciadorDeEventos</string>
+    <string name="btnCliqueAqui">Clique Aqui</string>
+    <string name="txvGerenciadorEventos">Gerenciador de Eventos</string>
+</resources>
